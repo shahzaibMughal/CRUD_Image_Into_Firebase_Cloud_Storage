@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "333800963125",
+    "firebase_url": "https://store-retrieve-image.firebaseio.com",
+    "project_id": "store-retrieve-image",
+    "storage_bucket": "store-retrieve-image.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333800963125:android:bcb246c2db3656a5",
+        "android_client_info": {
+          "package_name": "com.shahzaib.crudimagefirebasecloudstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333800963125-afk215o3ckq29ea3h2agqij096o1u2on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApk8kuwXVBI2MpyQRz77btgMSlmS47Q7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
